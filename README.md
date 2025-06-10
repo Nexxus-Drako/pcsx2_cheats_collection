@@ -1,4 +1,6 @@
 # pcsx2_cheats_collection
+## Original readme by xs1l3n7x, yet to be updated for community fork.
+
 The beginning of a probably unnecesary project related to a centralized solution for cheats in PCSX2.
 
 Currently contains cheats from Ultimate PCSX2 Cheater https://upc.alwaysdata.net/ and https://github.com/root670/CheatDevicePS2

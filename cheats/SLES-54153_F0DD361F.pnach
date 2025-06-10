@@ -1,0 +1,61 @@
+gametitle=Virtua Pro Football [SLES_541.53] (EU) PAL
+
+[Max All Skill Parameters]
+description=Max All Skill Parameters
+author=Nexxus Drako
+patch=1,EE,01145090,extended,00000063
+patch=1,EE,01145094,extended,00000063
+patch=1,EE,11145096,extended,00006363
+patch=1,EE,0114509D,extended,00000063
+
+[Max All Offence Parameters]
+description=Max All Offence Parameters
+author=Nexxus Drako
+patch=1,EE,0114508D,extended,00000063
+patch=1,EE,1114508E,extended,00006363
+patch=1,EE,01145091,extended,00000063
+patch=1,EE,11145092,extended,00006363
+patch=1,EE,01145095,extended,00000063
+
+[Max All Defence Parameters]
+description=Max All Defence Parameters
+author=Nexxus Drako
+patch=1,EE,21145098,extended,63636363
+patch=1,EE,011450A1,extended,00000063
+patch=1,EE,111450A2,extended,00006363
+patch=1,EE,011450A4,extended,00000063
+
+[Max All Physical Parameters]
+description=Max All Physical Parameters
+author=Nexxus Drako
+patch=1,EE,011450A5,extended,00000063
+patch=1,EE,111450A6,extended,00006363
+patch=1,EE,211450A8,extended,63636363
+patch=1,EE,011450AC,extended,00000063
+
+[Max All Attitude Parameters]
+description=Max All Attitude Parameters
+author=Nexxus Drako
+patch=1,EE,011450B0,extended,00000063
+patch=1,EE,011450B3,extended,00000063
+patch=1,EE,111450B6,extended,00006363
+patch=1,EE,111450B8,extended,00006363
+
+[Max All Aptitude Parameters]
+description=Max All Aptitude Parameters
+author=Nexxus Drako
+patch=1,EE,011450C1,extended,00000063
+patch=1,EE,111450C2,extended,00006363
+patch=1,EE,211450C4,extended,63636363
+patch=1,EE,211450C8,extended,63636363
+
+[Max All Style of Play Parameters]
+description=Max All Style of Play Parameters
+author=Nexxus Drako
+patch=1,EE,211450CC,extended,63636363
+patch=1,EE,211450D0,extended,63636363
+patch=1,EE,211450D4,extended,63636363
+patch=1,EE,211450D8,extended,63636363
+patch=1,EE,011450DC,extended,00000063
+patch=1,EE,011450BB,extended,00000063
+patch=1,EE,211450BC,extended,63636363

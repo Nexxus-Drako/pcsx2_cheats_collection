@@ -1,0 +1,8 @@
+gametitle=Let's Make A Soccer Team [SLES_541.51] (EU) PAL
+
+[Max Cash]
+description=Max Cash
+author=Nexxus Drako
+patch=1,EE,21E0A1D4,extended,00000005
+patch=1,EE,21E0A1D0,extended,7E000000
+
